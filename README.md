@@ -1,5 +1,5 @@
 # Go Sample Pipelines in Harness
-## this is my first rigger ##
+## this is my second rigger ##
 
 Introduction
 ========================
